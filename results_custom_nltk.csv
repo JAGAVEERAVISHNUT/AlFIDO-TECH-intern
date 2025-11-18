@@ -1,0 +1,9 @@
+text,method,neg,neu,pos,compound,label
+I absolutely love this product — it changed my life!,nltk_vader,0.0,0.594,0.406,0.6989,positive
+Terrible service. I'm never coming back.,nltk_vader,0.383,0.617,0.0,-0.4767,negative
+"The experience was okay, not great but not bad either.",nltk_vader,0.149,0.487,0.364,0.4728,positive
+What a wonderful and pleasant surprise. Highly recommend.,nltk_vader,0.0,0.201,0.799,0.8977,positive
+Disappointed. The item arrived damaged and late.,nltk_vader,0.545,0.455,0.0,-0.7184,negative
+Mediocre performance; could be improved with updates.,nltk_vader,0.0,0.659,0.341,0.4767,positive
+Absolutely fantastic! Exceeded all expectations.,nltk_vader,0.0,0.489,0.511,0.6352,positive
+I hate it. Worst purchase ever.,nltk_vader,0.722,0.278,0.0,-0.8316,negative

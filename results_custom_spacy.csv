@@ -1,0 +1,9 @@
+text,method,polarity,subjectivity,label
+I absolutely love this product — it changed my life!,spacy_textblob,0.0,0.0,neutral
+Terrible service. I'm never coming back.,spacy_textblob,0.0,0.0,neutral
+"The experience was okay, not great but not bad either.",spacy_textblob,0.0,0.0,neutral
+What a wonderful and pleasant surprise. Highly recommend.,spacy_textblob,0.0,0.0,neutral
+Disappointed. The item arrived damaged and late.,spacy_textblob,0.0,0.0,neutral
+Mediocre performance; could be improved with updates.,spacy_textblob,0.0,0.0,neutral
+Absolutely fantastic! Exceeded all expectations.,spacy_textblob,0.0,0.0,neutral
+I hate it. Worst purchase ever.,spacy_textblob,0.0,0.0,neutral

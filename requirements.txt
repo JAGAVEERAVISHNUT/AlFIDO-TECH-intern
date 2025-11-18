@@ -1,0 +1,4 @@
+pandas>=1.3.0
+nltk>=3.6.0
+spacy>=3.0.0
+spacytextblob>=4.0.0
